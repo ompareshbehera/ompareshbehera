@@ -1,7 +1,7 @@
 # Hi there, I'm Om Paresh Behera - Business Analyst!!! 👋
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ompareshbehera)
 
-# I'm a Business Analyst!!!
+# I'm aspiring Business Analyst!!!
 - 🌱 I’m currently working as a Business Analyst 📝
 - 👯 I’m looking to collaborate with as Business Analyst 🎥
 - 👨‍💻 Goals: Contribute more to Open Business projects 👨‍💻
