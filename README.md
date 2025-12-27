@@ -23,7 +23,7 @@
   <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%23E34F26.svg?style=for-the-badge&logo=SQL&logoColor=white"></a>
   <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-  <a href="#"><img alt="UI & UX" src="https://img.shields.io/badge/UI & UX-%23000000.svg?style=for-the-badge&logo=UI & UX&logoColor=white"></a>
+  <a href="#"><img alt="User Manual" src="https://img.shields.io/badge/User%20Manual-1572B6?style=for-the-badge&logo=readme&logoColor=white"></a>
   <a href="#"><img alt="UI & UX" src="https://img.shields.io/badge/UI%20%26%20UX-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"></a>
 </p>
 
